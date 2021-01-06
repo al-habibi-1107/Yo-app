@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1006561666420",
+    "firebase_url": "https://yo-video-a2ddb.firebaseio.com",
+    "project_id": "yo-video-a2ddb",
+    "storage_bucket": "yo-video-a2ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006561666420:android:782dbd3c1b3afebb85f821",
+        "android_client_info": {
+          "package_name": "com.yovideo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006561666420-o31pdpb0m8j2venfd1564q3qi9o63ig3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTHxMMv2tSk_WjcJgVpLKrEIXZtS9Nzv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006561666420-o31pdpb0m8j2venfd1564q3qi9o63ig3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
